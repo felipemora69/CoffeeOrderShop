@@ -1,0 +1,34 @@
+C:\Users\yami_\source\repos\DonutShopLesson\bin\Debug\DonutShopLesson.exe.config
+C:\Users\yami_\source\repos\DonutShopLesson\bin\Debug\DonutShopLesson.exe
+C:\Users\yami_\source\repos\DonutShopLesson\bin\Debug\DonutShopLesson.pdb
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.csproj.AssemblyReference.cache
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.CoffeeOrder.resources
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.Container.resources
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.Form1.resources
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.Properties.Resources.resources
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.csproj.GenerateResource.cache
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.csproj.CoreCompileInputs.cache
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.exe
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.pdb
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.DonutOrder.resources
+C:\Users\yami_\source\repos\DonutShopLesson\bin\Debug\fr\DonutShopLesson.resources.dll
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\DonutShopLesson.Properties.Resources.fr.resources
+C:\Users\yami_\source\repos\DonutShopLesson\obj\Debug\fr\DonutShopLesson.resources.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\bin\Debug\DonutShopLesson.exe.config
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\bin\Debug\DonutShopLesson.exe
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\bin\Debug\DonutShopLesson.pdb
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\bin\Debug\fr\DonutShopLesson.resources.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.CoffeeOrder.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.Container.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.DonutOrder.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.Form1.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.Strings.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.Properties.Resources.fr.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.Strings.fr.resources
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\fr\DonutShopLesson.resources.dll
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.exe
+C:\Users\Lenovo\Desktop\3rd Semester\SODV2101- RAPID APP DEVELOP\Coffee-Order-Shop\obj\Debug\DonutShopLesson.pdb
